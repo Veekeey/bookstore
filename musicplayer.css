@@ -268,25 +268,3 @@ h5{
   margin-left: 6rem;
 }
 
-@media screen and (min-width: 320px){
-  .title {
-    display: block;
-  }
-
-  .right {
-    width: 100%;
-  }
-
-  .logo {
-    margin-right: 0;
-    padding-right: 1rem;
-    padding-left: .5rem;
-    padding-top: 0;
-  }
-
-  #logo {
-    width: 40px;
-    height: 40px;
-  }
-  
-}
